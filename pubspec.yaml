@@ -1,10 +1,9 @@
 name: 'chargenAttempt'
 version: 0.0.1
 description: >
-  A mobile-friendly web app with routing, responsive CSS, and (optional) Sass
-  support.
-#author: Your Name <email@example.com>
-#homepage: https://www.example.com
+  Simple UI to test my Character Generator.
+#author: Logan Barnes
+#homepage:
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
