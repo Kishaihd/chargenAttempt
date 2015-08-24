@@ -1,9 +1,11 @@
 library gen_character;
 
-import 'model/entity.dart';
+import 'dart:html';
+import '/Users/HAQ/Documents/GitHub/Character_Gen_DD5/lib/model/entity.dart';
+import 'package:Character_Gen_DD5/Entity.dart';
+import 'package:Character_Gen_DD5/lib/model/Entity.dart';
 import 'model/race.dart';
 import 'model/character_class.dart';
-import 'dart:html';
 
 InputElement _strength = querySelector('#str-int');
 InputElement _dexterity = querySelector('#dex-int');
