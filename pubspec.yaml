@@ -1,18 +1,23 @@
 name: 'chargenAttempt'
 version: 0.0.1
 description: >
-  A mobile-friendly web app with routing, responsive CSS, and (optional) Sass
-  support.
-#author: Your Name <email@example.com>
-#homepage: https://www.example.com
+  Simple UI to test my Character Generator.
+#author: Logan Barnes
+#homepage:
 
 environment:
   sdk: '>=1.0.0 <2.0.0'
 
 dependencies:
+<<<<<<< HEAD
   Character_Gen_DD5:
     path: ../Character_Gen_DD5
   browser: '>=0.10.0 <0.11.0'
+=======
+ # Character_Gen_DD5:
+ #    path: C:/Users/HAQ/Documents/GitHub/Character_Gen_DD5
+   browser: '>=0.10.0 <0.11.0'
+>>>>>>> origin/master
   sass: '>=0.4.0 <0.5.0'
   dart_to_js_script_rewriter: '^0.1.0'
   route_hierarchical: '>=0.5.0 <0.7.0'
