@@ -9,8 +9,7 @@ environment:
 
 dependencies:
   Character_Gen_DD5:
-    git:
-      url: https://github.com/Kishaihd/Character_Gen_DD5.git
+    git: https://github.com/Kishaihd/Character_Gen_DD5.git
   browser: any
   sass: '>=0.4.0 <0.5.0'
   dart_to_js_script_rewriter: '^0.1.0'
